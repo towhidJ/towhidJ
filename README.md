@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/towhiduli3" target="blank"><img src="https://img.shields.io/twitter/follow/towhiduli3?logo=twitter&style=for-the-badge" alt="towhiduli3" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.Net Core & JavaScript**
+- 🌱 I’m currently Working **INFINIA GROUP**
 
 - 👯 I’m looking to collaborate on **Github**
 
