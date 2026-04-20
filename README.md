@@ -19,11 +19,11 @@
 ```js
 const towhidul = {
   name:      "Towhidul Islam",
-  role:      "Full Stack Web Developer",
+  role:      "Full Stack Ai,App & Web Developer",
   company:   "PEDROLLO GROUP",
   location:  "Bangladesh 🇧🇩",
   email:     "towhidulislamcse@gmail.com",
-  askMeAbout: ["Web Development", "React", "Node.js", "ASP.NET"],
+  askMeAbout: ["Web Development", "React", "Node.js", "ASP.NET","App Development"],
   currentlyLearning: "Scalable backend architecture",
   funFact:   "I debug with Stack Overflow & Google as my co-pilots 😄"
 };
